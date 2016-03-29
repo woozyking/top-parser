@@ -1,0 +1,28 @@
+{
+  "name": "top-parser",
+  "version": "0.1.0",
+  "description": "top output parser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/woozyking/top-parser.git"
+  },
+  "keywords": [
+    "top",
+    "utility",
+    "parser",
+    "system"
+  ],
+  "author": "Runzhou Li (Leo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/woozyking/top-parser/issues"
+  },
+  "homepage": "https://github.com/woozyking/top-parser#readme",
+  "dependencies": {
+    "moment": "^2.12.0"
+  }
+}
